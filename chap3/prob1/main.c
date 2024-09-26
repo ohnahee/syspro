@@ -18,8 +18,10 @@ int main(){
       }
     }
 
+
   if(max > 0)
 	  printf("%s \n", longest);
+  	  printf("hi");
 
   return 0;
 }
