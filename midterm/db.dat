@@ -1,0 +1,15 @@
+
+#ifndef db.dat
+#define db.dat
+
+
+typedef struct {
+ int id;
+ char name[30];
+ char category[20];
+ int expired date;
+ int stock;
+} Structure;
+
+
+endif
