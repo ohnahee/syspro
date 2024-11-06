@@ -1,9 +1,7 @@
-// student.h
-#define START_ID 1401001
+#define START_ID 1001001
 
 struct student {
-    int id;
-    char name[24];
-    int score;
+    int id;          
+    char name[24];   
+    int score;     
 };
-
